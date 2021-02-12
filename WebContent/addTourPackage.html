@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<title>insert here</title>
+<style>
+	#selectedFiles img {
+		max-width: 125px;
+		max-height: 125px;
+		float: left;
+		margin-bottom:10px;
+	}
+	
+</style>
+</head>
+    
+<body>
+<center>
+<form action="AddTourPackageServlet" method="post" enctype="multipart/form-data" height="24" width="24" >
+	<h1>Add Tour Packages</h1>
+	Package Id : &emsp;<input type = "text" name="packageId"><br><br>
+	Add Place : <input type = "text" name="placeName"><br><br>
+	Description : <textarea rows="1" cols="15" name="description"></textarea> <br><br>
+	Stay Amount :<input type = "text" name="stayAmount"> <br><br>
+	Food Amount : <input type = "text" name="foodAmount"> <br><br>
+	Bus Amount : <input type = "text" name="busAmount"><br><br>
+	Train Amount : <input type = "text" name="trainAmount"> <br><br>
+	Airlines Amount : <input type = "text" name="airlineAmount"> <br><br>
+	Number Of Days:<input type= "number" min=1 max=10 step=1 name="numofdays">&emsp;&emsp;Number Of Nights:<input type= "number" min=1 max=10 step=1 name="numofnights"><br>
+	<br>
+	
+	<p><input type="file"  accept="image/*" name="image" id="file"  onchange="loadFile(event)" style="display: none;"></p>
+<p><label for="file" style="cursor: pointer;">Upload Image</label></p>
+<p><img id="output" width="200" /></p>
+
+<script>
+var loadFile = function(event) {
+	var image = document.getElementById('output');
+	image.src = URL.createObjectURL(event.target.files[0]);
+};
+</script> 
+<input type="submit" value="add package">
+</form>
+</center>
+</body>
