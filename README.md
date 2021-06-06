@@ -80,7 +80,6 @@ In order to add new tour package, admin add the tour data like package id, place
 **==>> JAVA Servlets (& JSP) is used for server side technology. Java Database Connectivity (JDBC) is used for connectiong the JAVA to MySQL database.**
 
 
-**<<====================================  END  =======================================>>**
 
 # Connectivity with Database
 
@@ -98,9 +97,9 @@ Step 4) Create the Statement
 
 { For fetching the data :   Statement st = con.createStatement();  }
 
-{ For inseting & updating the data :   PrepareStatement st = con.prepareStatement(query); // query=> meand sql query   }
+{ For inseting & updating the data :  PrepareStatement st = con.prepareStatement(query); //query=> meand sql query }
 
-Step 5) Execute the Query  {  ResultSet rs = st.executeQuery(query) ; // query=> meand sql query  }
+Step 5) Execute the Query  {  ResultSet rs = st.executeQuery(query) ; //query=> meand sql query  }
 
 Step 6) Process the Results
 
@@ -109,5 +108,7 @@ Step 7) Close the Connection
 ------This is how, the JDBC concept is used in our project.
 
 
+
+**<<====================================  END  =======================================>>**
 
 
