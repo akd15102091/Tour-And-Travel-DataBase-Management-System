@@ -12,7 +12,7 @@ Project-Video-Link :  https://drive.google.com/file/d/10VC1Pi-mv2V6w3ov0NBDwd76N
 # Project Overview:-
 
 # Home Page:-
-![1](https://user-images.githubusercontent.com/61588604/120923256-37c1e400-c6eb-11eb-9c22-bf24e1a530c7.PNG)
+![1](https://user-images.githubusercontent.com/61588604/120923256-37c1e400-c6eb-11eb-9c22-bf24e1a530c7.PNG =250x250)
 
 **------------------------------------**
 
