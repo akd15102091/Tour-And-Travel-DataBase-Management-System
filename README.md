@@ -12,14 +12,14 @@ Project-Video-Link :  https://drive.google.com/file/d/10VC1Pi-mv2V6w3ov0NBDwd76N
 # Project Overview:-
 
 # Home Page:-
-![1](https://user-images.githubusercontent.com/61588604/120923256-37c1e400-c6eb-11eb-9c22-bf24e1a530c7.PNG)
+![1](https://user-images.githubusercontent.com/61588604/120923256-37c1e400-c6eb-11eb-9c22-bf24e1a530c7.PNG  | width=100)
 
 **------------------------------------**
 
 # Admin Things :-
 
 **1) First of all, admin has to login with admin credientials.**
-![2](https://user-images.githubusercontent.com/61588604/120923385-dfd7ad00-c6eb-11eb-8729-1ea897ed01fc.PNG)
+![2](https://user-images.githubusercontent.com/61588604/120923385-dfd7ad00-c6eb-11eb-8729-1ea897ed01fc.PNG   | width=100)
 -------------------------------
 
 **2) Admin can do many thing, Admin can add new tour package.**
