@@ -43,8 +43,9 @@ In order to add new tour package, admin add the tour data like package id, place
 
 ![5](https://user-images.githubusercontent.com/61588604/120923589-1104ad00-c6ed-11eb-9d85-beb0582f7173.PNG)
 
-**--------------------------------**
-**----------------------------------**
+**-----------------------------------------------------------------------**
+
+**-----------------------------------------------------------------------**
 
 # User Things :- 
 
@@ -67,7 +68,18 @@ In order to add new tour package, admin add the tour data like package id, place
 
 ![10](https://user-images.githubusercontent.com/61588604/120923794-03035c00-c6ee-11eb-90f4-47f8d87dbe8b.PNG)
 
-**----------------------------------**
-**----------------------------------**
+**---------------------------------------------------------------------------------**
+
+**---------------------------------------------------------------------------------**
 
 
+# About Database:-
+
+**MySQL Database** is used for this application.
+
+**==>> Three tables are used. One for storing PACKAGE details, second used for USER details and third is used for storing Booking details.**
+
+**==>> JAVA Servlets (& JSP) is used for server side technology. Java Database Connectivity (JDBC) is used for connectiong the JAVA to MySQL database.**
+
+
+**<<===============================================  END  ========================================================>>**
